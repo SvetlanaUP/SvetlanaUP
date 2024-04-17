@@ -1,11 +1,17 @@
 ### Hi there 👋
 
-I'm microbiologist who computes the data in [the Big Data Biology lab](http://big-data-biology.org/) under supervision by [Luis Pedro Coelho](https://github.com/luispedro).
+I'm microbiologist who computes the microbiome data in [the Segata lab]([http://big-data-biology.org/](http://segatalab.cibio.unitn.it/index.html)).
 
-I'm interested in microbiome science and tools, and my research focuses on global resistome within [the EMBARK project](https://antimicrobialresistance.eu/).
-Check out my [Microbiome digests](https://microbiomedigest.com/author/svetlanaup/) and [AMR digests](https://antimicrobialresistance.eu/category/amr-digest/).
+I'm a strong supporter of open science and open source initiatives:
+[Microbiome digests](https://microbiomedigest.com/author/svetlanaup/),
+[Microbiome Virtual International Forum](https://www.microbiome-vif.org/en-US),
+[NSURP](https://nsurp.org/), 
+[Outreachy](https://www.outreachy.org/), 
+[BugSigDB](https://bugsigdb.org/Main_Page) and 
+[curatedMetagenomicData](https://github.com/waldronlab/curatedMetagenomicDataCuration).
 
-- 📫 How to reach me: on Twitter [@svetlana_up](https://twitter.com/svetlana_up) or email me at svetlana@big-data-biology.org
+
+- 📫 How to reach me: on X [@svetlana_up](https://twitter.com/svetlana_up) or email me at svetlana@microbiome-vif.org
 
 <!--
 **SvetlanaUP/SvetlanaUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
