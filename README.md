@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm microbiologist who computes the microbiome data in [the Segata lab]([http://big-data-biology.org/](http://segatalab.cibio.unitn.it/index.html)).
+I'm microbiologist who computes microbiome data in [the Segata lab]([http://big-data-biology.org/](http://segatalab.cibio.unitn.it/index.html)).
 
 I'm a strong supporter of open science and open source initiatives:
 [Microbiome digests](https://microbiomedigest.com/author/svetlanaup/),
