@@ -11,7 +11,7 @@ I'm a strong supporter of open science and open source initiatives:
 [curatedMetagenomicData](https://github.com/waldronlab/curatedMetagenomicDataCuration).
 
 
-📫 How to reach me: on Bluesky [svetlanaup.bsky.social](https://bsky.app/profile/svetlanaup.bsky.social), LinkedIn [svetlana-ugarcina-perovic](www.linkedin.com/in/svetlana-ugarcina-perovic), X [@svetlana_up](https://twitter.com/svetlana_up) or email me at svetlana@microbiome-vif.org
+📫 How to reach me: on Bluesky [svetlanaup.bsky.social](https://bsky.app/profile/svetlanaup.bsky.social), LinkedIn [svetlana-ugarcina-perovic](https://linkedin.com/in/svetlana-ugarcina-perovic), X [@svetlana_up](https://twitter.com/svetlana_up) or email me at svetlana@microbiome-vif.org
 
 <!--
 **SvetlanaUP/SvetlanaUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
