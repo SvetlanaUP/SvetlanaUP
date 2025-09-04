@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a microbiologist who computes microbiome data with both wet-lab and dry-lab experience gained at University of Novi Sad (Serbia), University of Glasgow (UK), University of Porto (Portugal), Fudan University (China) and University of Trento (Italy). 
+I'm a microbiologist who computes microbiome data 
+with both wet-lab and dry-lab experience 
+gained at University of Novi Sad (Serbia), University of Glasgow (UK), University of Porto (Portugal), Fudan University (China) and University of Trento (Italy). 
 
 I'm a strong supporter of open science and open source initiatives:
 [Microbiome digest](https://microbiomedigest.com/author/svetlanaup/),
